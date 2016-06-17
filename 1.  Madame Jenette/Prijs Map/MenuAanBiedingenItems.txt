@@ -1,0 +1,6 @@
+01
+Naam: 4 voor de prijs van 4
+Prijs: 4000
+Exstras: 1
+beschrijving: 1 exstra
+prijs: 1000

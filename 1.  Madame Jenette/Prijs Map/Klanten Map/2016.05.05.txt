@@ -1,0 +1,39 @@
+KlantNaam: 2016.05.05.01  
+Naam: Rotti
+Prijs: 850
+Exstras: 3
+beschrijving: Love
+prijs: 0010
+gekozen: nee
+beschrijving: Faith
+prijs: 0010
+gekozen: nee
+beschrijving: Exstra Saus
+prijs: 0100
+gekozen: nee
+Naam: Rotti
+Prijs: 850
+Exstras: 3
+beschrijving: Love
+prijs: 0010
+gekozen: nee
+beschrijving: Faith
+prijs: 0010
+gekozen: ja
+beschrijving: Exstra Saus
+prijs: 0100
+gekozen: ja
+Naam: Rotti
+Prijs: 850
+Exstras: 3
+beschrijving: Love
+prijs: 0010
+gekozen: nee
+beschrijving: Faith
+prijs: 0010
+gekozen: nee
+beschrijving: Exstra Saus
+prijs: 0100
+gekozen: nee
+=Bestelling:   2660
+TOTAAL VERDIEND: 2660

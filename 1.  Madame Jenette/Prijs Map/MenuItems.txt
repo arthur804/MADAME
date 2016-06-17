@@ -1,0 +1,20 @@
+01
+Naam: Rotti
+Prijs: 0850
+Exstras: 3
+beschrijving: Love
+prijs: 0010
+beschrijving: Faith
+prijs: 0010
+beschrijving: Exstra Saus
+prijs: 0100
+02
+Naam: nasi koko
+Prijs: 2525
+Exstras: 1
+beschrijving: satesaus
+prijs: 0020
+03
+Naam: asdf
+Prijs: 1010
+Exstras: 0

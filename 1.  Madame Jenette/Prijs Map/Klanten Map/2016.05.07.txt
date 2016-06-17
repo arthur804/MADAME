@@ -1,0 +1,35 @@
+KlantNaam: 2016.05.07.01  
+Naam: nasi koko
+Prijs: 2525
+Exstras: 1
+beschrijving: satesaus
+prijs: 0020
+gekozen: nee
+=Bestelling:   2525
+KlantNaam: 2016.05.07.02  
+Naam: Rotti
+Prijs: 850
+Exstras: 3
+beschrijving: Love
+prijs: 0010
+gekozen: nee
+beschrijving: Faith
+prijs: 0010
+gekozen: nee
+beschrijving: Exstra Saus
+prijs: 0100
+gekozen: nee
+Naam: Rotti
+Prijs: 850
+Exstras: 3
+beschrijving: Love
+prijs: 0010
+gekozen: nee
+beschrijving: Faith
+prijs: 0010
+gekozen: nee
+beschrijving: Exstra Saus
+prijs: 0100
+gekozen: nee
+=Bestelling:   1700
+TOTAAL VERDIEND: 4225
